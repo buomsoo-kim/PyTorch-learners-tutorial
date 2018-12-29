@@ -5,7 +5,7 @@
 
 ## PyTorch Basics
 
-# [1. PyTorch Tensors](https://github.com/buomsoo-kim/PyTorch-learners-tutorial/blob/master/PyTorch%20Basics/pytorch-tensors.ipynb)
+### [1. PyTorch Tensors](https://github.com/buomsoo-kim/PyTorch-learners-tutorial/blob/master/PyTorch%20Basics/pytorch-tensors.ipynb)
 - Tensors
 - Creating Tensors
 - Tensor Data Types

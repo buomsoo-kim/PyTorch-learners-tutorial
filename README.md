@@ -2,7 +2,9 @@
 - PyTorch tutorial for learners
 - Codes are compatible with torch version 1.0.0 
 - Written in Google Colaboratory (.ipynb files)
+
 ![](https://pytorch.org/tutorials/_images/pytorch-logo-flat.png)
+
 ## PyTorch Basics
 
 ### [1. PyTorch Tensors](https://github.com/buomsoo-kim/PyTorch-learners-tutorial/blob/master/PyTorch%20Basics/pytorch-tensors.ipynb)
